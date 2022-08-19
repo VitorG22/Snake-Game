@@ -1,0 +1,19 @@
+body {
+    height: 100%;    
+    width: 100%;
+    display: flex; 
+    justify-content:center ;
+    align-items: center;
+    flex-direction: column;
+    color: green;
+    text-transform:uppercase ;
+    
+}
+
+canvas {
+    border:green solid 4px
+}
+
+.macas {
+    color: rgb(237, 8, 8);
+}
